@@ -1,1 +1,2 @@
 # Alpha-Code-Valentines-Cards
+Write some Valentine's Day cards using my cipher, Alpha Code! Alpha Code is a relatively simple cipher using the ascii table made with the alphabet in mind, shifting all vowels forward by 5 since there are 5 vowels, and all consonants back by 21 (with wrap around) for the same reason, but they stay in their number forms to change it up. Either convert a message and have it put onto a Valentine's Day card template or just use the cipher by itself.
